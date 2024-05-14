@@ -9,3 +9,4 @@ This project aims to detect and recognize sign language gestures using supervise
 - High accuracy and fast inference times
 
  
+ 
